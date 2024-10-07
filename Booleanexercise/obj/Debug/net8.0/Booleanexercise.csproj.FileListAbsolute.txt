@@ -1,0 +1,15 @@
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanexercise\bin\Debug\net8.0\Booleanexercise.exe
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanexercise\bin\Debug\net8.0\Booleanexercise.deps.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanexercise\bin\Debug\net8.0\Booleanexercise.runtimeconfig.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanexercise\bin\Debug\net8.0\Booleanexercise.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanexercise\bin\Debug\net8.0\Booleanexercise.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanexercise\obj\Debug\net8.0\Booleanexercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanexercise\obj\Debug\net8.0\Booleanexercise.AssemblyInfoInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanexercise\obj\Debug\net8.0\Booleanexercise.AssemblyInfo.cs
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanexercise\obj\Debug\net8.0\Booleanexercise.csproj.CoreCompileInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanexercise\obj\Debug\net8.0\Booleanexercise.sourcelink.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanexercise\obj\Debug\net8.0\Booleanexercise.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanexercise\obj\Debug\net8.0\refint\Booleanexercise.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanexercise\obj\Debug\net8.0\Booleanexercise.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanexercise\obj\Debug\net8.0\Booleanexercise.genruntimeconfig.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanexercise\obj\Debug\net8.0\ref\Booleanexercise.dll

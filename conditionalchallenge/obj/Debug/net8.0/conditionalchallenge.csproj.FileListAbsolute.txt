@@ -1,0 +1,15 @@
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\conditionalchallenge\obj\Debug\net8.0\conditionalchallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\conditionalchallenge\obj\Debug\net8.0\conditionalchallenge.AssemblyInfoInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\conditionalchallenge\obj\Debug\net8.0\conditionalchallenge.AssemblyInfo.cs
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\conditionalchallenge\obj\Debug\net8.0\conditionalchallenge.csproj.CoreCompileInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\conditionalchallenge\obj\Debug\net8.0\conditionalchallenge.sourcelink.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\conditionalchallenge\bin\Debug\net8.0\conditionalchallenge.exe
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\conditionalchallenge\bin\Debug\net8.0\conditionalchallenge.deps.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\conditionalchallenge\bin\Debug\net8.0\conditionalchallenge.runtimeconfig.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\conditionalchallenge\bin\Debug\net8.0\conditionalchallenge.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\conditionalchallenge\bin\Debug\net8.0\conditionalchallenge.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\conditionalchallenge\obj\Debug\net8.0\conditionalchallenge.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\conditionalchallenge\obj\Debug\net8.0\refint\conditionalchallenge.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\conditionalchallenge\obj\Debug\net8.0\conditionalchallenge.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\conditionalchallenge\obj\Debug\net8.0\conditionalchallenge.genruntimeconfig.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\conditionalchallenge\obj\Debug\net8.0\ref\conditionalchallenge.dll

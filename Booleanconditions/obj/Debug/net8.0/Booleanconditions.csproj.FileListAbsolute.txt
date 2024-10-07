@@ -1,0 +1,15 @@
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanconditions\bin\Debug\net8.0\Booleanconditions.exe
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanconditions\bin\Debug\net8.0\Booleanconditions.deps.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanconditions\bin\Debug\net8.0\Booleanconditions.runtimeconfig.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanconditions\bin\Debug\net8.0\Booleanconditions.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanconditions\bin\Debug\net8.0\Booleanconditions.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanconditions\obj\Debug\net8.0\Booleanconditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanconditions\obj\Debug\net8.0\Booleanconditions.AssemblyInfoInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanconditions\obj\Debug\net8.0\Booleanconditions.AssemblyInfo.cs
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanconditions\obj\Debug\net8.0\Booleanconditions.csproj.CoreCompileInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanconditions\obj\Debug\net8.0\Booleanconditions.sourcelink.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanconditions\obj\Debug\net8.0\Booleanconditions.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanconditions\obj\Debug\net8.0\refint\Booleanconditions.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanconditions\obj\Debug\net8.0\Booleanconditions.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanconditions\obj\Debug\net8.0\Booleanconditions.genruntimeconfig.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Booleanconditions\obj\Debug\net8.0\ref\Booleanconditions.dll
