@@ -1,0 +1,15 @@
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Variablscopechallenge\obj\Debug\net8.0\Variablscopechallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Variablscopechallenge\obj\Debug\net8.0\Variablscopechallenge.AssemblyInfoInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Variablscopechallenge\obj\Debug\net8.0\Variablscopechallenge.AssemblyInfo.cs
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Variablscopechallenge\obj\Debug\net8.0\Variablscopechallenge.csproj.CoreCompileInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Variablscopechallenge\obj\Debug\net8.0\Variablscopechallenge.sourcelink.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Variablscopechallenge\bin\Debug\net8.0\Variablscopechallenge.exe
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Variablscopechallenge\bin\Debug\net8.0\Variablscopechallenge.deps.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Variablscopechallenge\bin\Debug\net8.0\Variablscopechallenge.runtimeconfig.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Variablscopechallenge\bin\Debug\net8.0\Variablscopechallenge.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Variablscopechallenge\bin\Debug\net8.0\Variablscopechallenge.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Variablscopechallenge\obj\Debug\net8.0\Variablscopechallenge.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Variablscopechallenge\obj\Debug\net8.0\refint\Variablscopechallenge.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Variablscopechallenge\obj\Debug\net8.0\Variablscopechallenge.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Variablscopechallenge\obj\Debug\net8.0\Variablscopechallenge.genruntimeconfig.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\Variablscopechallenge\obj\Debug\net8.0\ref\Variablscopechallenge.dll
