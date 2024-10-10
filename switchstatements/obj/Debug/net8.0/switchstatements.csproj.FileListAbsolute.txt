@@ -1,0 +1,15 @@
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\switchstatements\bin\Debug\net8.0\switchstatements.exe
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\switchstatements\bin\Debug\net8.0\switchstatements.deps.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\switchstatements\bin\Debug\net8.0\switchstatements.runtimeconfig.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\switchstatements\bin\Debug\net8.0\switchstatements.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\switchstatements\bin\Debug\net8.0\switchstatements.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\switchstatements\obj\Debug\net8.0\switchstatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\switchstatements\obj\Debug\net8.0\switchstatements.AssemblyInfoInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\switchstatements\obj\Debug\net8.0\switchstatements.AssemblyInfo.cs
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\switchstatements\obj\Debug\net8.0\switchstatements.csproj.CoreCompileInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\switchstatements\obj\Debug\net8.0\switchstatements.sourcelink.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\switchstatements\obj\Debug\net8.0\switchstatements.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\switchstatements\obj\Debug\net8.0\refint\switchstatements.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\switchstatements\obj\Debug\net8.0\switchstatements.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\switchstatements\obj\Debug\net8.0\switchstatements.genruntimeconfig.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\switchstatements\obj\Debug\net8.0\ref\switchstatements.dll
