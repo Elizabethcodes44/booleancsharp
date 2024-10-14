@@ -1,0 +1,15 @@
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\fizzbuzzchallenge\bin\Debug\net8.0\fizzbuzzchallenge.exe
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\fizzbuzzchallenge\bin\Debug\net8.0\fizzbuzzchallenge.deps.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\fizzbuzzchallenge\bin\Debug\net8.0\fizzbuzzchallenge.runtimeconfig.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\fizzbuzzchallenge\bin\Debug\net8.0\fizzbuzzchallenge.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\fizzbuzzchallenge\bin\Debug\net8.0\fizzbuzzchallenge.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\fizzbuzzchallenge\obj\Debug\net8.0\fizzbuzzchallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\fizzbuzzchallenge\obj\Debug\net8.0\fizzbuzzchallenge.AssemblyInfoInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\fizzbuzzchallenge\obj\Debug\net8.0\fizzbuzzchallenge.AssemblyInfo.cs
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\fizzbuzzchallenge\obj\Debug\net8.0\fizzbuzzchallenge.csproj.CoreCompileInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\fizzbuzzchallenge\obj\Debug\net8.0\fizzbuzzchallenge.sourcelink.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\fizzbuzzchallenge\obj\Debug\net8.0\fizzbuzzchallenge.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\fizzbuzzchallenge\obj\Debug\net8.0\refint\fizzbuzzchallenge.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\fizzbuzzchallenge\obj\Debug\net8.0\fizzbuzzchallenge.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\fizzbuzzchallenge\obj\Debug\net8.0\fizzbuzzchallenge.genruntimeconfig.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\fizzbuzzchallenge\obj\Debug\net8.0\ref\fizzbuzzchallenge.dll

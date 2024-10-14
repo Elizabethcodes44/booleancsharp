@@ -1,0 +1,15 @@
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\DOWHILESTATEMENT\bin\Debug\net8.0\DOWHILESTATEMENT.exe
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\DOWHILESTATEMENT\bin\Debug\net8.0\DOWHILESTATEMENT.deps.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\DOWHILESTATEMENT\bin\Debug\net8.0\DOWHILESTATEMENT.runtimeconfig.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\DOWHILESTATEMENT\bin\Debug\net8.0\DOWHILESTATEMENT.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\DOWHILESTATEMENT\bin\Debug\net8.0\DOWHILESTATEMENT.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\DOWHILESTATEMENT\obj\Debug\net8.0\DOWHILESTATEMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\DOWHILESTATEMENT\obj\Debug\net8.0\DOWHILESTATEMENT.AssemblyInfoInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\DOWHILESTATEMENT\obj\Debug\net8.0\DOWHILESTATEMENT.AssemblyInfo.cs
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\DOWHILESTATEMENT\obj\Debug\net8.0\DOWHILESTATEMENT.csproj.CoreCompileInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\DOWHILESTATEMENT\obj\Debug\net8.0\DOWHILESTATEMENT.sourcelink.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\DOWHILESTATEMENT\obj\Debug\net8.0\DOWHILESTATEMENT.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\DOWHILESTATEMENT\obj\Debug\net8.0\refint\DOWHILESTATEMENT.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\DOWHILESTATEMENT\obj\Debug\net8.0\DOWHILESTATEMENT.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\DOWHILESTATEMENT\obj\Debug\net8.0\DOWHILESTATEMENT.genruntimeconfig.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\DOWHILESTATEMENT\obj\Debug\net8.0\ref\DOWHILESTATEMENT.dll
