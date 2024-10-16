@@ -1,0 +1,15 @@
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\castingandstrings\obj\Debug\net8.0\castingandstrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\castingandstrings\obj\Debug\net8.0\castingandstrings.AssemblyInfoInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\castingandstrings\obj\Debug\net8.0\castingandstrings.AssemblyInfo.cs
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\castingandstrings\obj\Debug\net8.0\castingandstrings.csproj.CoreCompileInputs.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\castingandstrings\obj\Debug\net8.0\castingandstrings.sourcelink.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\castingandstrings\bin\Debug\net8.0\castingandstrings.exe
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\castingandstrings\bin\Debug\net8.0\castingandstrings.deps.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\castingandstrings\bin\Debug\net8.0\castingandstrings.runtimeconfig.json
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\castingandstrings\bin\Debug\net8.0\castingandstrings.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\castingandstrings\bin\Debug\net8.0\castingandstrings.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\castingandstrings\obj\Debug\net8.0\castingandstrings.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\castingandstrings\obj\Debug\net8.0\refint\castingandstrings.dll
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\castingandstrings\obj\Debug\net8.0\castingandstrings.pdb
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\castingandstrings\obj\Debug\net8.0\castingandstrings.genruntimeconfig.cache
+C:\Users\casper\CSHARP_PROJECTS\booleancsharp\castingandstrings\obj\Debug\net8.0\ref\castingandstrings.dll
